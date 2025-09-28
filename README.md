@@ -78,5 +78,3 @@ Currently seeking challenging opportunities in full-stack development and AI aut
 Crafted with ❤️ and lots of ☕
 
 ---
-
-Would you like me to format this further (for example, adding badges or GitHub profile links)?
